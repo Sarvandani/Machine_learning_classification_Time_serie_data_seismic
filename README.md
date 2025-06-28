@@ -1,4 +1,4 @@
-# Machine_learning_classification_Time_serie_data_seismic
+# Deep_learning_classification_Time_serie_data_seismic
 
 # Seismic Signal Classification Using CNN
 
